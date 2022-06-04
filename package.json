@@ -1,0 +1,23 @@
+{
+  "name": "client-server-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" node -r esm ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianPaulinoSantos/playingWithGraphQL.git"
+  },
+  "author": "Willian Paulino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianPaulinoSantos/playingWithGraphQL/issues"
+  },
+  "homepage": "https://github.com/willianPaulinoSantos/playingWithGraphQL#readme",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
